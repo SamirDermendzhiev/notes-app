@@ -1,0 +1,96 @@
+{
+  "users": [
+    {
+      "id": "5ea2b9b758ff8c277f8dc104",
+      "isActive": "on",
+      "isAdmin": false,
+      "picture": "http://picsum.photos/200/300?random=1",
+      "age": 33,
+      "name": "Buck Wat",
+      "email": "buckwatts@entroflex.com",
+      "password": 12345
+    },
+    {
+      "id": "5ea2b9b779a90dfb36110b10",
+      "isActive": "on",
+      "isAdmin": "on",
+      "picture": "http://picsum.photos/200/300?random=2",
+      "age": 35,
+      "name": "Jordan",
+      "email": "abv@abv.bg",
+      "password": 12345
+    },
+    {
+      "id": "5ea2b9b7ad6764efa41304be",
+      "isActive": true,
+      "isAdmin": false,
+      "picture": "http://picsum.photos/200/300?random=3",
+      "age": 23,
+      "name": "Bridgett Wiley",
+      "email": "bridgettwiley@entroflex.com",
+      "password": 12345
+    },
+    {
+      "id": "5ea2b9b727a52d20b85bda6b",
+      "isActive": true,
+      "isAdmin": true,
+      "picture": "http://picsum.photos/200/300?random=4",
+      "age": 26,
+      "name": "Jeanne Baker",
+      "email": "jeannebaker@entroflex.com",
+      "password": 12345
+    },
+    {
+      "id": "5ea2b9b715aa3fe1effd426e",
+      "isActive": false,
+      "isAdmin": false,
+      "picture": "http://picsum.photos/200/300?random=5",
+      "age": 29,
+      "name": "Koch Mcknight",
+      "email": "kochmcknight@entroflex.com",
+      "password": 12345
+    },
+    {
+      "id": "5ea2b9b7c76d254f5d2fe4a5",
+      "isActive": true,
+      "isAdmin": false,
+      "picture": "http://picsum.photos/200/300?random=6",
+      "age": 28,
+      "name": "Shari Atkinson",
+      "email": "shariatkinson@entroflex.com",
+      "password": 12345
+    },
+    {
+      "name": "spider4o",
+      "email": "samir@abv.bg",
+      "password": "1999",
+      "age": "21",
+      "isActive": true,
+      "isAdmin": true,
+      "picture": "http://picsum.photos/200/300?random=7",
+      "id": "vM8FyX0"
+    },
+    {
+      "name": "Buck Wat",
+      "email": "buckwat@abv.bg",
+      "password": "buckwat",
+      "age": "33",
+      "isActive": true,
+      "isAdmin": false,
+      "picture": "http://picsum.photos/200/300?random=8",
+      "id": "v97mIKN"
+    }
+  ],
+  "notes": [
+    {
+      "title": "tesstes",
+      "content": "set",
+      "auhotId": "",
+      "authorName": "Angelita Kaufman",
+      "date": "2024-02-14T20:06:11.615Z",
+      "authorId": "5ed6b394e10889341f2b4a8c",
+      "status": "Pending",
+      "id": 1
+    }
+  ]
+}

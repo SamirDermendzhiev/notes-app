@@ -1,0 +1,14 @@
+.user-card{
+    border: 1px solid black;
+    margin: 20px 0px;
+}
+.picture-holder{
+    position: relative;
+}
+.edit-icon{
+    position: absolute;
+    right: 15px;
+}
+.cursor-pointer{
+    cursor: pointer;
+}
